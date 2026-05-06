@@ -2,7 +2,7 @@ Checklist de accesibilidad – Formulario Participa
 
 Nombre del estudiante:Daniel Stiven Rodriguez Valencia 
 Fecha:04 de mayo del 2026
-Nombre de la rama:
+Nombre de la rama:Daniel_Rodriguez_Valencia
 
 1. ¿El formulario tiene un título claro?
 Respuesta:Sí. El título es "Participa por una comunidad informada" y explica claramente que el formulario es para que las personas participen con propuestas comunitarias.
